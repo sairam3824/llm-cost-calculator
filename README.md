@@ -22,14 +22,6 @@ A web application for comparing AI API costs across major LLM providers. Built w
 - DeepSeek
 - Open-source hosting estimates (Meta, Alibaba)
 
-## Recent Fixes (March 5, 2026)
-
-- Fixed empty-results crash in recommendation logic when filters return no models.
-- Removed lint error for `setState` directly inside `useEffect` by using safe URL-based initial state parsing.
-- Removed `any` in projection chart data and replaced with explicit typing.
-- Added validation for URL query parameters (`input`, `output`, `requests`) to avoid invalid state values.
-- Verified app runs from terminal (`npm run dev`) and production build succeeds (`npm run build`).
-
 ## Prerequisites
 
 - Node.js 18+
