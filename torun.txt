@@ -1,0 +1,21 @@
+LLM Cost Calculator - How to Run
+
+1) Open terminal and go to project folder:
+cd "/Users/sairammaruri/Documents/New git projects/llm-cost-calculator/llm-cost-calculator"
+
+2) Install dependencies:
+npm install
+
+3) Start development server:
+npm run dev
+
+4) Open in browser:
+http://localhost:3000
+
+Production run:
+- Build: npm run build
+- Start: npm start
+
+Optional:
+- Run lint: npm run lint
+- Run dev on another port: npm run dev -- --port 3001
