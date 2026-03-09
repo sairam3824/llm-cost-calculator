@@ -98,7 +98,7 @@ These warnings do not block local development or production builds.
 
 ## License
 
-Licensed under the Apache License 2.0. See [LICENSE](LICENSE).
+Licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Disclaimer
 
